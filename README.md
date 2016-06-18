@@ -1,2 +1,2 @@
 # Sorting-algorithms
-There sre provided sorting algorithms via Java and C++
+There are provided sorting algorithms via Java and C++
