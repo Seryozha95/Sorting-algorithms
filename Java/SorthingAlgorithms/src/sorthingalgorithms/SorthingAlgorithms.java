@@ -31,7 +31,8 @@ public class SorthingAlgorithms {
            array[i] = in.nextInt();
         }
         
-        new BubbleSort().bubble(array);
+        //new BubbleSort().bubble(array);
+        new ShellSort().shell(array);
         
         System.out.println("Sorted  array:\t" + Arrays.toString(array));
     }
