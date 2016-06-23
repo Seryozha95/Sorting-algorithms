@@ -4,3 +4,4 @@ There are provided sorting algorithms in Java and C++
 - Bubble
 - Insert
 - Shell
+- Quick
